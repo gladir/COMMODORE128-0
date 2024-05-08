@@ -26,6 +26,15 @@ Voici la liste des différents fichiers proposés dans COMMODORE128-0 :
 			<td><b>C128.PAS</b></td>
 			<td>Cette commande permet de lancer un clone de l'interpréteur de BASIC du Commodore 128.</td>
 		</tr>  
+			<tr>
+			<td><b>DIS6502.PAS</b></td>
+			<td>Cette commande permet de désassembler un code binaire de microprocesseur 6502 en langage de programmation assembleur 6502.</td>
+		</tr>
+			<tr>
+			<td><b>DISZ80.PAS</b></td>
+			<td>Cette commande permet de désassembler un code binaire de microprocesseur Z80 en langage de programmation assembleur Z80.</td>
+		</tr>
+
 	  <tr>
 		       <td><b>RUN6502.PAS</b></td>
 		       <td>Cette commande permet d'exécuter du code machine du microprocesseur 6502.</td>
