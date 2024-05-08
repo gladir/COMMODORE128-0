@@ -10,40 +10,39 @@ Voici un aperçu de la commande C128 :
 Voici la liste des différents fichiers proposés dans COMMODORE128-0 :
 
 <table>
-		<tr>
-			<th>Nom</th>
-			<th>Description</th>	
-		</tr>
-		<tr>
-			<td><b>ASM6502.PAS</b></td>
-			<td>Cette commande permet de lancer le compilateur de langage de programmation assembleur pour les microprocesseur 6502.</td>
-		</tr>
-		<tr>
-			<td><b>ASMZ80.PAS</b></td>
-			<td>Cette commande permet de lancer le compilateur de langage de programmation assembleur pour les microprocesseur Z80.</td>
-		</tr>	
-    <tr>
-			<td><b>C128.PAS</b></td>
-			<td>Cette commande permet de lancer un clone de l'interpréteur de BASIC du Commodore 128.</td>
-		</tr>  
-			<tr>
-			<td><b>DIS6502.PAS</b></td>
-			<td>Cette commande permet de désassembler un code binaire de microprocesseur 6502 en langage de programmation assembleur 6502.</td>
-		</tr>
-			<tr>
-			<td><b>DISZ80.PAS</b></td>
-			<td>Cette commande permet de désassembler un code binaire de microprocesseur Z80 en langage de programmation assembleur Z80.</td>
-		</tr>
-
-	  <tr>
-		       <td><b>RUN6502.PAS</b></td>
-		       <td>Cette commande permet d'exécuter du code machine du microprocesseur 6502.</td>
-		</tr>  
-	       	<tr>
-		       <td><b>RUNZ80.PAS</b></td>
-		       <td>Cette commande permet d'exécuter du code machine du microprocesseur Z80.</td>
-		</tr>  
-	</table>
+	<tr>
+		<th>Nom</th>
+		<th>Description</th>	
+	</tr>
+	<tr>
+		<td><b>ASM6502.PAS</b></td>
+		<td>Cette commande permet de lancer le compilateur de langage de programmation assembleur pour les microprocesseur 6502.</td>
+	</tr>
+	<tr>
+		<td><b>ASMZ80.PAS</b></td>
+		<td>Cette commande permet de lancer le compilateur de langage de programmation assembleur pour les microprocesseur Z80.</td>
+	</tr>	
+	<tr>
+		<td><b>C128.PAS</b></td>
+		<td>Cette commande permet de lancer un clone de l'interpréteur de BASIC du Commodore 128.</td>
+	</tr>  
+	<tr>
+		<td><b>DIS6502.PAS</b></td>
+		<td>Cette commande permet de désassembler un code binaire de microprocesseur 6502 en langage de programmation assembleur 6502.</td>
+	</tr>
+	<tr>
+		<td><b>DISZ80.PAS</b></td>
+		<td>Cette commande permet de désassembler un code binaire de microprocesseur Z80 en langage de programmation assembleur Z80.</td>
+	</tr>
+	<tr>
+		<td><b>RUN6502.PAS</b></td>
+		<td>Cette commande permet d'exécuter du code machine du microprocesseur 6502.</td>
+	</tr>  
+	<tr>
+		<td><b>RUNZ80.PAS</b></td>
+		<td>Cette commande permet d'exécuter du code machine du microprocesseur Z80.</td>
+	</tr>  
+</table>
 	
 
 <h2>Compilation</h2>
