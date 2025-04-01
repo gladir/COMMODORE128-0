@@ -1,5 +1,5 @@
 # COMMODORE128-0
-Liste de commandes en Pascal pour le Commodore 128
+Liste de commandes en Pascal (Turbo Pascal ou Free Pascal) pour le Commodore 128.
 
 Voici un aperçu de la commande C128 :
 
